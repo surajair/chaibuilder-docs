@@ -21,5 +21,5 @@ Once the site is created, Chai Builder will generate a unique **API Key** for yo
 ---
 
 ### Next Steps
-- 👉 [Deploy to Vercel](/developers/01-getting-started/02-deploy-to-vercel/)
-- 🛠️ [Set Up Locally](/developers/01-getting-started/03-setup-locally/)
+- 👉 [Deploy to Vercel](/developers/getting-started/deploy-to-vercel/)
+- 🛠️ [Set Up Locally](/developers/getting-started/setup-locally/)
