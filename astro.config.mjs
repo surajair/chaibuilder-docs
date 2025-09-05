@@ -17,9 +17,9 @@ export default defineConfig({
 				{ icon: 'discord', label: 'Discord', href: 'https://discord.gg/czkgwX2rnD' },
 				{ icon: 'twitter', label: 'Twitter', href: 'https://x.com/chaibuilder' },
 			],
-			// editLink: {
-			// 	baseUrl: 'https://github.com/surajair/chai-docs/edit/main/',
-			// },
+			editLink: {
+				baseUrl: 'https://github.com/surajair/chaibuilder-docs/edit/main/',
+			},
 			customCss: [
 				'./src/styles/global.css',
 			],
