@@ -30,7 +30,7 @@ export default defineConfig({
 				},
 				{
 					label: '🚀 Getting Started',
-					autogenerate: { directory: 'developers/01-getting-started' },
+					autogenerate: { directory: 'developers/getting-started' },
 				},
 				{
 					label: '✏️ For Editors',
@@ -38,7 +38,7 @@ export default defineConfig({
 				},
 				{
 					label: '🔧 For Developers',
-					autogenerate: { directory: 'developers/02-extending-builder' },
+					autogenerate: { directory: 'developers/extending-builder' },
 				},
 				{
 					label: '📦 Open Source',
