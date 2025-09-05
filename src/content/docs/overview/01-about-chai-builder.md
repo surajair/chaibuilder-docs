@@ -1,139 +1,52 @@
 ---
-title: What is ChaiBuilder?
-description: Learn about ChaiBuilder - the powerful React-based visual website builder that combines the flexibility of code with the simplicity of visual design.
+title: About Chai Builder
+description: THis is description
 ---
 
-ChaiBuilder is a revolutionary visual website builder built on top of **React** and **Tailwind CSS**. It bridges the gap between visual simplicity and technical flexibility, empowering both developers and content creators to build beautiful, high-performance websites.
+ChaiBuilder is a powerful visual website builder built on top of React JS and Tailwind CSS. It empowers developers and designers to create stunning websites rapidly without compromising on flexibility or customization options.
 
-## 🎯 Our Mission
+## Evolution
+ChaiBuilder's journey began as a tool for creating Tailwind CSS UI blocks, similar to a Tailwind CSS UI library. As the project evolved, it transformed into a comprehensive website builder specifically designed for Tailwind CSS and React JS environments.
 
-**Make website building efficient, flexible, and enjoyable for everyone.**
+## Core Philosophy
+Our primary goal is to make the website building experience as efficient as possible, with a special focus on content-heavy sites. That said, ChaiBuilder's versatility allows for building virtually any type of website.
 
-Whether you're a developer who wants to speed up prototyping, a designer who needs more control over the final output, or a content creator who wants independence from developers - ChaiBuilder is designed for you.
+## Technical Foundation
+At its core, ChaiBuilder is built using:
 
-## 🚀 Evolution Story
+ - React JS
+ - Tailwind CSS
 
-ChaiBuilder's journey began as a simple tool for creating Tailwind CSS UI components - similar to a component library builder. As the project evolved and we listened to our community, it transformed into something much more powerful:
+This foundation enables seamless integration with any React-based framework, including:
 
-**From Component Builder** → **To Complete Website Builder** → **To Extensible Platform**
+ - Next.js
+ - Remix
+ - Other React-powered frameworks
 
-Today, ChaiBuilder is a comprehensive platform that serves everyone from individual creators to large development teams.
+## Package Ecosystem
+ChaiBuilder consists of two main packages:
 
-## 💡 Core Philosophy
-
-### 🎨 Visual First, Code When Needed
-Build visually with drag-and-drop simplicity, but never sacrifice the power to customize with code when needed.
-
-### ⚛️ React Native Architecture  
-Built entirely with React, ensuring compatibility with the entire React ecosystem and modern development practices.
-
-### 🎯 Content-Focused Design
-Optimized for content-heavy websites, blogs, and marketing sites while remaining flexible enough for any use case.
-
-### 🔧 Developer-Friendly Output
-Generate clean, semantic HTML and CSS that developers actually want to work with.
-
-## 🏗️ Technical Foundation
-
-ChaiBuilder is built on proven, modern technologies:
-
-- **⚛️ React 18+** - For component architecture and state management
-- **🎨 Tailwind CSS** - For styling and responsive design  
-- **📝 TypeScript** - For type safety and developer experience
-- **🔧 Modern Bundlers** - Compatible with Vite, Webpack, and more
-
-### Framework Compatibility
-
-ChaiBuilder seamlessly integrates with any React-based framework:
-
-- **Next.js** - Full-stack React applications
-- **Remix** - Web-focused React framework  
-- **Vite + React** - Fast development experience
-- **Create React App** - Traditional React setup
-- **Gatsby** - Static site generation
-
-## 📦 Package Ecosystem
-
-ChaiBuilder is architected as a modular ecosystem:
-
-### 1. `@chaibuilder/sdk` - The Core Engine
-
+1. @chaibuilder/sdk
 The foundational package that provides:
 
-- ✨ **Pure React Builder Component** - Embeddable visual editor
-- 🔧 **Rendering Engine** - Convert designs to React/HTML
-- 🎛️ **Extension APIs** - Add custom blocks and functionality  
-- 📱 **Responsive Design Tools** - Built-in responsive utilities
+A pure React website builder component
+Helper packages for extended functionality
+APIs to render pages as HTML
+Extensibility options to add custom functionality
 
-### 2. `@chaibuilder/blocks` - Ready-to-Use Components
+2. @chaibuilder/pages
+An extension of the SDK that offers:
 
-Pre-built components library including:
+A complete website builder solution
+Easy integration with React-based frameworks
+Connectivity with ChaiBuilder cloud services for storage
 
-- 📄 **Content Blocks** - Headers, text, images, videos
-- 🧩 **Layout Components** - Containers, grids, sections  
-- 📊 **Data Components** - Forms, tables, charts
-- 🛒 **E-commerce Blocks** - Product cards, shopping features
+## Cloud Services
+ChaiBuilder's cloud service works in conjunction with @chaibuilder/pages to provide:
 
-### 3. `@chaibuilder/pages` - Complete Website Solution
-
-A higher-level package that provides:
-
-- 🏠 **Multi-Page Management** - Handle entire websites
-- 💾 **Data Persistence** - Save and load functionality
-- 🌐 **SEO Optimization** - Meta tags, sitemaps, and more
-- 🔗 **ChaiBuilder Cloud Integration** - Optional cloud services
-
-## ☁️ ChaiBuilder Cloud (Optional)
-
-Our cloud service enhances the local experience with:
-
-- 💾 **Persistent Storage** - Save pages across devices
-- 🖼️ **Media Management** - Optimized image and video hosting
-- 🤖 **AI-Powered Features** - Content generation and optimization
-- 👥 **Collaboration Tools** - Team sharing and real-time editing
-- 📊 **Analytics Integration** - Performance and usage insights
-
-> **Note**: ChaiBuilder works perfectly without the cloud service. It's designed to be completely self-contained and can run entirely locally or on your own infrastructure.
-
-## 🎯 Perfect For
-
-### 👩‍💻 **Developers**
-- Rapid prototyping and client demonstrations
-- Building custom admin interfaces
-- Creating marketing sites and landing pages
-- Extending with custom functionality
-
-### 🎨 **Designers**  
-- Converting designs to interactive websites
-- Creating pixel-perfect layouts with code output
-- Building design systems and style guides
-- Collaborating with development teams
-
-### ✍️ **Content Creators**
-- Building personal websites and portfolios
-- Creating blogs and content sites
-- Managing marketing campaigns
-- Publishing without technical dependencies
-
-### 🏢 **Agencies & Teams**
-- Scaling website production
-- Offering white-label solutions
-- Managing multiple client projects  
-- Training non-technical team members
-
-## 🔮 What Makes ChaiBuilder Different
-
-| Feature | ChaiBuilder | Traditional Builders | Code-Only Approach |
-|---------|-------------|---------------------|-------------------|
-| **Visual Editing** | ✅ Drag & Drop | ✅ Limited | ❌ Code Only |
-| **React Components** | ✅ Native | ❌ Limited | ✅ Manual |
-| **Tailwind CSS** | ✅ First-class | ❌ Basic | ✅ Manual |
-| **Custom Code** | ✅ Full Access | ❌ Restricted | ✅ Full Control |
-| **Clean Output** | ✅ Developer-friendly | ❌ Bloated | ✅ Manual |
-| **Extensibility** | ✅ Plugin System | ❌ Limited | ✅ Manual |
-| **TypeScript** | ✅ Built-in | ❌ Rare | ✅ Manual |
-
-Ready to start building? [Get started with ChaiBuilder →](/developers/01-getting-started/01-creating-new-site/)
+Persistent storage for saving pages
+Media management capabilities
+AI-related APIs for enhanced functionality
 
 ## Open Source
 ChaiBuilder maintains an open-source version of the builder at GitHub, demonstrating our commitment to transparency and community collaboration.
