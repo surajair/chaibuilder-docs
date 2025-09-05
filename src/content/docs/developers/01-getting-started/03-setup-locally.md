@@ -10,8 +10,8 @@ title: Setup locally
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (v18+ recommended)
-- [Git](https://git-scm.com/)
+- <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">Node.js</a> (v18+ recommended)
+- <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">Git</a>
 - pnpm _(optional but preferred)_
 
 ---
@@ -50,7 +50,7 @@ CHAIBUILDER_API_KEY=your_chaibuilder_api_key
 CHAIBUILDER_WEBHOOK_SECRET=your_custom_webhook_secret
 ```
 
-You can find your API key and manage your site [here](https://chaibuilder.com/sites).
+You can find your API key and manage your site <a href="https://chaibuilder.com/sites" target="_blank" rel="noopener noreferrer">here</a>.
 
 ---
 
@@ -64,7 +64,7 @@ pnpm run dev
 
 ## 6. Login to your local builder
 
-Open [http://localhost:3000/chai](http://localhost:3000/chai) in your browser and log in using ChaiBuilder credentials.
+Open <a href="http://localhost:3000/chai" target="_blank" rel="noopener noreferrer">http://localhost:3000/chai</a> in your browser and log in using ChaiBuilder credentials.
 
 ---
 

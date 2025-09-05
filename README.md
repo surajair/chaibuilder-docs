@@ -1,11 +1,4 @@
-# Starlight Starter Kit: Basics
-
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
-
 # ChaiBuilder Documentation
-
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
-
 This is the official documentation for **ChaiBuilder** - the React-based visual website builder that empowers developers and content creators to build stunning websites with ease.
 
 ## 🚀 About ChaiBuilder
@@ -90,55 +83,6 @@ We welcome contributions to improve the ChaiBuilder documentation! Here's how yo
 
 ## 🔗 Links
 
-- **[ChaiBuilder Website](https://chaibuilder.com)** - Official website
-- **[GitHub Repository](https://github.com/chaibuilder/chaibuilder)** - Source code
-- **[Discord Community](https://discord.gg/chaibuilder)** - Join our community
-- **[Demo Site](https://demo.chaibuilder.com)** - Try ChaiBuilder live
-
-## 📄 License
-
-This documentation is licensed under [MIT License](LICENSE). 
-
-ChaiBuilder is open source software licensed under the [MIT License](https://github.com/chaibuilder/chaibuilder/blob/main/LICENSE).
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
-
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`             | Installs dependencies                            |
-| `pnpm dev`             | Starts local dev server at `localhost:4321`      |
-| `pnpm build`           | Build your production site to `./dist/`          |
-| `pnpm preview`         | Preview your build locally, before deploying     |
-| `pnpm astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+- **<a href="https://chaibuilder.com" target="_blank" rel="noopener noreferrer">ChaiBuilder Website</a>** - Official website
+- **<a href="https://github.com/chaibuilder" target="_blank" rel="noopener noreferrer">GitHub Repository</a>** - Source code
+- **<a href="https://discord.gg/czkgwX2rnD" target="_blank" rel="noopener noreferrer">Discord Community</a>** - Join our community
