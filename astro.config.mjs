@@ -5,11 +5,11 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'ChaiBuilder Documentation',
+			title: 'CHAI BUILDER',
 			description: 'Complete guide to ChaiBuilder - The React-based visual website builder',
 			logo: {
 				src: './src/assets/chai-logo.png',
-				replacesTitle: true,
+				replacesTitle: false,
 
 			},
 			social: [
@@ -18,7 +18,7 @@ export default defineConfig({
 				{ icon: 'twitter', label: 'Twitter', href: 'https://x.com/chaibuilder' },
 			],
 			editLink: {
-				baseUrl: 'https://github.com/surajair/chai-docs/blob/main/',
+				baseUrl: 'https://github.com/surajair/chai-docs/edit/main/',
 			},
 			customCss: [
 				'./src/styles/global.css',
