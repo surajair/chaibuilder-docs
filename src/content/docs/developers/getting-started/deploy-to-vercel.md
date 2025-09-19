@@ -8,7 +8,7 @@ You can easily deploy your site built on <a href="http://chaibuilder.com/" targe
 
 Click the link below to instantly deploy the ChaiBuilder template to Vercel:
 
-> **👉** <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchaibuilder%2Fchaibuilder-nextjs&env=CHAIBUILDER_API_KEY%2CCHAIBUILDER_WEBHOOK_SECRET&envDescription=CHAIBUILDER_API_KEY%20is%20needed%20to%20access%20the%20builder.%20CHAIBUILDER_WEBHOOK_SECRET%20is%20a%20custom%20key%20you%20can%20set%20for%20your%20site&envLink=https%3A%2F%2Fchaibuilder.com%2Fsites&repository-name=chaibuilder-nextjs" target="_blank" rel="noopener noreferrer">**Deploy to Vercel**</a>
+> <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fchaibuilder%2Fchaibuilder-nextjs&env=CHAIBUILDER_API_KEY%2CCHAIBUILDER_WEBHOOK_SECRET&envDescription=CHAIBUILDER_API_KEY%20is%20needed%20to%20access%20the%20builder.%20CHAIBUILDER_WEBHOOK_SECRET%20is%20a%20custom%20key%20you%20can%20set%20for%20your%20site&envLink=https%3A%2F%2Fchaibuilder.com%2Fsites&repository-name=chaibuilder-nextjs" target="_blank" rel="noopener noreferrer">**Deploy to Vercel**</a>
 
 **Required Environment Variables:** <a href="https://chaibuilder.com/sites" target="_blank" rel="noopener noreferrer">Goto Sites</a>
 

@@ -103,7 +103,7 @@ The SDK allows you to extend its functionality by adding custom blocks. Also the
 Use @chaibuilder/sdk when you want to build your own solution. You will need to handle everything from storage to authentication and more.
 Use @chaibuilder/pages when you want a complete solution where everything is handled for you.
 
-> 💡 [Learn more](/docs/overview/chaibuilder-sdk-vs-pages) about @chaibuilder/sdk vs @chaibuklder/pages
+> [Learn more](/docs/overview/chaibuilder-sdk-vs-pages) about @chaibuilder/sdk vs @chaibuklder/pages
 
 ## Open Source
 
