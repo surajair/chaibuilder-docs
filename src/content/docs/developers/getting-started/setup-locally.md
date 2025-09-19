@@ -6,7 +6,7 @@ title: Setup locally
 
 ---
 
-## 1. 📦 Prerequisites
+## 1. Prerequisites
 
 Make sure you have the following installed:
 
@@ -16,7 +16,7 @@ Make sure you have the following installed:
 
 ---
 
-## 2. 📁 Clone the Repository
+## 2. Clone the Repository
 
 ```bash
 git clone https://github.com/chaibuilder/chaibuilder-nextjs.git
@@ -25,7 +25,7 @@ cd chaibuilder-nextjs
 
 ---
 
-## 3. ⚙️ Install Dependencies
+## 3. Install Dependencies
 
 Using pnpm:
 
@@ -35,7 +35,7 @@ pnpm install
 
 ---
 
-## 4. 🔐 Set Up Environment Variables
+## 4. Set Up Environment Variables
 
 Create a `.env.local` file in the root directory:
 
@@ -54,7 +54,7 @@ You can find your API key and manage your site <a href="https://chaibuilder.com/
 
 ---
 
-## 5. ▶️ Run the Dev Server
+## 5. Run the Dev Server
 
 ```bash
 pnpm run dev
@@ -68,6 +68,6 @@ Open <a href="http://localhost:3000/chai" target="_blank" rel="noopener noreferr
 
 ---
 
-## ✅ You're Ready!
+## You're Ready!
 
 Your ChaiBuilder site should now be running locally. Make changes and see them live instantly. Start building!
