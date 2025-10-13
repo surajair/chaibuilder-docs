@@ -34,19 +34,10 @@ Helper packages for extended functionality
 APIs to render pages as HTML
 Extensibility options to add custom functionality
 
-2. @chaibuilder/pages
-An extension of the SDK that offers:
-
+2. chai-next
+Chai Builder + NextJS package
 A complete website builder solution
-Easy integration with React-based frameworks
-Connectivity with ChaiBuilder cloud services for storage
 
-## Cloud Services
-ChaiBuilder's cloud service works in conjunction with @chaibuilder/pages to provide:
-
-Persistent storage for saving pages
-Media management capabilities
-AI-related APIs for enhanced functionality
 
 ## Open Source
 ChaiBuilder maintains an open-source version of the builder at GitHub, demonstrating our commitment to transparency and community collaboration.
